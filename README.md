@@ -10,15 +10,15 @@ In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications 
 
 ## Contents 
 
-Source code can be found under the src folder. 
+Source code can be found under the `src` folder. 
 
-For ease of use, we have prepared an additional readme file titled AdaTrace-Readme.docx which contains detailed screenshots and explanations of the trajectory synthesis and experimentation process. 
+For ease of use, we have prepared an additional readme file titled `AdaTrace-Readme.docx` which contains detailed screenshots and explanations of the trajectory synthesis and experimentation process. 
 
-We also provide a sample dataset: brinkhoff.dat. 
+We also provide a sample dataset: `brinkhoff.dat`. 
 
 ## Installation and Dependencies
 
-AdaTrace source code is written in Java. There are two dependencies on external libraries: commons-math3-3.4.1.jar and kd.jar. Both are provided in this repository. Please add them to your project build path before trying to build AdaTrace. 
+AdaTrace source code is written in Java. There are two dependencies on external libraries: `commons-math3-3.4.1.jar` and `kd.jar`. Both are provided in this repository. Please add them to your project build path before trying to build AdaTrace. 
 
 ## Project Status
 
